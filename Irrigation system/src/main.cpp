@@ -19,9 +19,6 @@ int water_amount = 0;
 int lcd_off = 0;
 int sensorVal = 0;
 
-
-
-
 //------------------------------------------------------------
 
 void setup()
